@@ -1,0 +1,331 @@
+{
+  "nav": {
+    "hotelGuide": "Hotel Guide",
+    "personalizeStay": "Aufenthalt Gestalten",
+    "menus": "Speisekarten",
+    "wellness": "Wellness",
+    "livigno": "Livigno",
+    "cityPulse": "City Pulse"
+  },
+  "header": {
+    "tagline": "Der perfekte Ort zum Entspannen",
+    "weatherLabel": "Livigno",
+    "languageSwitcher": "Sprache",
+    "snow": "Schnee",
+    "wind": "Wind",
+    "feelsLike": "Gefühlt"
+  },
+  "hero": {
+    "welcome": "Willkommen im",
+    "title": "Hotel Touring",
+    "subtitle": "In Livigno, zuhause in den Alpen — wo jeder Aufenthalt zur Erinnerung wird.",
+    "cta": "Ihren Aufenthalt Entdecken",
+    "scroll": "Mehr Entdecken",
+    "elevation": "1.816 m ü. d. M.",
+    "region": "Livigno, Valtellina"
+  },
+  "hotelGuide": {
+    "title": "Hotel Guide",
+    "subtitle": "Alles für einen perfekten Aufenthalt",
+    "restaurant": {
+      "name": "Restaurant",
+      "hours": "Frühstück: 7:30–10:00 | Mittagessen: 12:00–14:00 | Abendessen: 19:00–21:00",
+      "desc": "Traditionelle Veltliner Küche mit frischen Saisonprodukten. À-la-carte-Mittagessen täglich verfügbar"
+    },
+    "spa": {
+      "name": "Spa & Wellness",
+      "hours": "Mo–Fr & So: 16:00–20:00 | Samstag: geschlossen",
+      "desc": "Wellness-Thermalkreislauf mit Sauna, Dampfbad und Hydro-Pool. Behandlungsbuchungen an der Rezeption"
+    },
+    "gym": {
+      "name": "Pool & Fitness",
+      "hours": "Täglich: 9:00–20:00",
+      "desc": "Beheizter Innenpool und Fitnesscenter exklusiv für Hotelgäste"
+    },
+    "pool": {
+      "name": "Beheizter Pool",
+      "hours": "Täglich: 9:00–20:00",
+      "desc": "Überdachter Innenpool mit Panoramablick auf die Alpen, exklusiv für Hotelgäste"
+    },
+    "checkin": {
+      "name": "Check-in / Check-out",
+      "hours": "Check-in: 16:00 | Check-out: 10:00",
+      "desc": "Für besondere Zeitwünsche wenden Sie sich bitte bei der Buchung an die Rezeption, je nach Verfügbarkeit"
+    },
+    "garage": {
+      "name": "Überdachte Garage",
+      "hours": "24/7 Zugang — Im Aufenthalt inklusive",
+      "desc": "Kostenlose überdachte Garage für alle Hotelgäste. Zugang mit Zimmerschlüssel"
+    },
+    "skiDepot": {
+      "name": "Ski- & Fahrradlager",
+      "hours": "Während der gesamten Saison verfügbar",
+      "desc": "Sicheres Lager für Ski, Schuhe und Fahrräder. Zugang mit Zimmerschlüssel"
+    },
+    "bikeRoom": {
+      "name": "Fahrradraum",
+      "hours": "Während der Sommersaison verfügbar",
+      "desc": "Sicheres Fahrradlager für alle Gäste"
+    },
+    "ztl": {
+      "name": "ZTL-Zone — Hotelzugang",
+      "hours": "Einfahrt: Via Bondi | Ausfahrt: Via Pienz",
+      "desc": "Das Hotel befindet sich in einer Zone mit beschränktem Verkehr. Die einzige erlaubte Einfahrt ist über die Via Bondi (Zugang N.5), die Ausfahrt erfolgt über die Via Pienz. Bitte teilen Sie das Kennzeichen Ihres Fahrzeugs beim Check-in an der Rezeption mit.",
+      "mapLink": "In Google Maps öffnen",
+      "mapsUrl": "https://maps.google.com/?q=Hotel+Touring+Livigno+Via+Plan+117"
+    },
+    "kids": {
+      "name": "Mini Club",
+      "hours": "Mo–Fr & So: 16:00–22:00 | Samstag: geschlossen",
+      "desc": "Spielzimmer für Kinder mit organisierten Aktivitäten und Spielen"
+    }
+  },
+  "personalizeStay": {
+    "title": "Gestalten Sie Ihren Aufenthalt",
+    "subtitle": "Kuratierte Extras direkt auf Ihr Zimmer",
+    "requestToRoom": "Aufs Zimmer Bestellen",
+    "selectItem": "Service auswählen",
+    "formTitle": "Aufs Zimmer Bestellen",
+    "formSubtitle": "Unser Concierge wird Ihre Anfrage innerhalb von 30 Minuten vorbereiten.",
+    "guestName": "Gastname",
+    "guestNamePlaceholder": "Ihr vollständiger Name",
+    "roomNumber": "Zimmernummer",
+    "roomNumberPlaceholder": "z.B. 204",
+    "preferredTime": "Gewünschte Uhrzeit",
+    "preferredTimePlaceholder": "z.B. 20:00 oder So bald wie möglich",
+    "notes": "Besondere Hinweise",
+    "notesPlaceholder": "Allergien, Vorlieben, Anlass-Details…",
+    "sendRequest": "Anfrage Senden",
+    "sending": "Wird gesendet…",
+    "sendError": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder uns direkt kontaktieren.",
+    "requestSent": "Anfrage Bestätigt!",
+    "requestDesc": "Unser Concierge wird alles bald in Ihrem Zimmer bereit haben.",
+    "close": "Schließen",
+    "required": "Dieses Feld ist erforderlich",
+    "items": {
+      "wine": {
+        "name": "Zimmerwein",
+        "shortDesc": "Premium-Flasche bei Ankunft im Zimmer",
+        "desc": "Handverlesen aus unserem Keller — Barolo, Amarone oder lokale Südtiroler Sorten. Gekühlt oder bei Zimmertemperatur.",
+        "price": "",
+        "badge": "Beliebteste Wahl"
+      },
+      "massage": {
+        "name": "Massage Buchung",
+        "shortDesc": "Wellnessbehandlungen auf Anfrage",
+        "desc": "Alpen-Kräuter-Ritual mit Warmstein-Therapie in unserem Spa.",
+        "price": "",
+        "badge": "Signature"
+      },
+      "cake": {
+        "name": "Festtagstorte",
+        "shortDesc": "Individuelle Torte für jeden Anlass",
+        "desc": "Unser Konditor kreiert maßgeschneiderte Torten für Geburtstage, Jubiläen oder Flitterwochen. 24h Vorbestellung.",
+        "price": "ab €25",
+        "badge": "Vorbestellung"
+      },
+      "flowers": {
+        "name": "Blumenstrauß",
+        "shortDesc": "Frische Blumen im Zimmer auf Anfrage",
+        "desc": "",
+        "price": "Auf Anfrage",
+        "badge": "Auf Anfrage"
+      }
+    }
+  },
+  "menus": {
+    "title": "Digitale Speisekarten",
+    "subtitle": "Entdecken Sie unser kulinarisches Angebot",
+    "browseMenuCta": "Unsere vollständige Speisekarte ansehen",
+    "bar": "Bar",
+    "restaurant": "Restaurant",
+    "wineList": "Weinkarte",
+    "barItems": {
+      "cocktails": "Signature Cocktails",
+      "spirits": "Spirituosen & Digestifs",
+      "nonAlcoholic": "Alkoholfrei",
+      "hotDrinks": "Heiße Getränke"
+    },
+    "restaurantItems": {
+      "starters": "Vorspeisen",
+      "mains": "Hauptgerichte",
+      "desserts": "Desserts"
+    },
+    "wineItems": {
+      "sparkling": "Schaumweine",
+      "whites": "Weißweine",
+      "reds": "Rotweine",
+      "dessertWines": "Dessertweine"
+    }
+  },
+  "wellness": {
+    "title": "Wellness & Spa",
+    "subtitle": "Ein Refugium aus Wärme, Wasser und Stille in den Alpen",
+    "intro": "Nehmen Sie sich Zeit, sich der reinen Entspannung hinzugeben, den Alltagsstress hinter sich zu lassen und Körper und Geist mit neuer Lebensenergie zu regenerieren. Unser Wellnessbereich bietet Ihnen eine durchdachte Kombination aus Saunen, Bädern und Wärmeräumen, die ganz auf Ihr Wohlbefinden ausgerichtet ist. Lassen Sie sich von Wasser und Wärme erfrischen, erleben Sie tiefe Gelassenheit und schöpfen Sie neue Kraft.",
+    "bookTreatment": "Behandlung Buchen",
+    "bookDesc": "Zimmermassagen, Gesichtsbehandlungen und Body-Wraps täglich verfügbar.",
+    "hours": "Wellness geöffnet: Mo–Fr & So 16:00–20:00 | Samstag geschlossen",
+    "lastEntry": "Letzter Einlass: 20:15",
+    "facilities": {
+      "sauna": {
+        "name": "Finnische Sauna",
+        "temp": "90°C",
+        "duration": "",
+        "desc": "Treten Sie ein und lassen Sie sich von der trockenen 90°-Hitze umhüllen: Sie werden sofort ein tiefes Gefühl von Ruhe und Entspannung spüren.",
+        "tip": ""
+      },
+      "steam": {
+        "name": "Türkisches Bad",
+        "temp": "45°C",
+        "duration": "",
+        "desc": "Dieser Raum erreicht bei vollem Dampf 45°. Die im Dampf gelösten Heilöle und -kräuter werden über Haut und Atemwege aufgenommen und entfalten eine wohltuende Wirkung auf den gesamten Organismus.",
+        "tip": ""
+      },
+      "brechelbad": {
+        "name": "Brechelbad",
+        "temp": "55°C",
+        "duration": "",
+        "desc": "Eine aromatische Sauna namens Brechelbad bei 55°, mit Dämpfen, die Ihre Sinne verblüffen und Ihnen das Gefühl geben, mitten in einem Wald zu sein.",
+        "tip": ""
+      },
+      "shower": {
+        "name": "Ruheraum",
+        "temp": "",
+        "duration": "",
+        "desc": "Erholen Sie sich zwischen den Anwendungen in diesem speziellen Ruheraum mit bequemen Sesseln, die Entspannung auf Entspannung stapeln.",
+        "tip": ""
+      },
+      "hydropool": {
+        "name": "Chromotherapie-Dusche",
+        "temp": "",
+        "duration": "",
+        "desc": "Mit seitlichen Wasserstrahlen verwöhnt die belebende Dusche Ihre Sinne durch eine überraschende Verbindung aus Wasser und Farben.",
+        "tip": ""
+      }
+    }
+  },
+  "livigno": {
+    "title": "Livigno Erlebnis",
+    "subtitle": "Entdecken Sie die Magie der Alpen — jede Jahreszeit",
+    "winter": "Winter",
+    "summer": "Sommer",
+    "winterContent": {
+      "title": "Winterwunderland",
+      "subtitle": "Weltklasse-Skifahren auf 1.816m — 115km Pisten",
+      "liftStatusTitle": "Live Liftstatus",
+      "liftStatusUpdated": "Heute aktualisiert",
+      "lifts": {
+        "teola": { "name": "Teola Gondel", "status": "open", "info": "Gipfel: 2.797m | Pisten: 12 | Blau–Rot" },
+        "mottolino": { "name": "Mottolino Express", "status": "open", "info": "Gipfel: 2.745m | Pisten: 8 | Rot–Schwarz" },
+        "carosello": { "name": "Carosello 3000", "status": "open", "info": "Gipfel: 3.000m | Pisten: 15 | Alle Level" },
+        "federia": { "name": "Federia Sessellift", "status": "maintenance", "info": "Gipfel: 2.200m | Langlaufnetz" }
+      },
+      "open": "Geöffnet",
+      "maintenance": "Wartung",
+      "closed": "Geschlossen",
+      "skiPassTitle": "Skipass-Info",
+      "skiPassDesc": "Livigno bietet 115km Pisten, 31 Lifte und verbundene Langlaufstrecken im gesamten Tal.",
+      "skiPassOptions": {
+        "day": { "label": "Tagespass", "price": "€55", "note": "Erwachsene, Hochsaison" },
+        "week": { "label": "6-Tages-Pass", "price": "€280", "note": "Bestes Preis-Leistungs-Verhältnis" },
+        "season": { "label": "Saisonpass", "price": "€890", "note": "Unbegrenzter Zugang den ganzen Winter" }
+      },
+      "skiPassLink": "Online Kaufen",
+      "skiPassUrl": "https://www.skilivigno.com",
+      "hutMapTitle": "Berghütten & Refugien",
+      "hutMapDesc": "Aufwärmen auf halber Piste in einer von 8 Berghütten mit traditionellen Valtellina-Gerichten — von Pizzoccheri bis Bresaola.",
+      "hutMapLink": "Hütten-Karte Anzeigen",
+      "hutMapUrl": "https://www.livigno.eu/de/winter/berggasthaeuser",
+      "huts": {
+        "carosello": { "name": "Rifugio Carosello", "altitude": "2.700m", "specialty": "Pizzoccheri & Polenta" },
+        "mottolino": { "name": "La Costaccia", "altitude": "2.400m", "specialty": "Craft-Bier & Fondue" },
+        "teola": { "name": "Baita Teola", "altitude": "2.200m", "specialty": "Hausgemachte Suppen & Schnaps" }
+      }
+    },
+    "summerContent": {
+      "title": "Alpiner Sommer",
+      "subtitle": "Erkunden Sie 350km Wege und Pfade",
+      "trails": {
+        "trekking": {
+          "name": "Livigno Rundweg",
+          "difficulty": "Mittel",
+          "distance": "14 km",
+          "elevation": "+620m",
+          "duration": "4–5h",
+          "desc": "Panoramarundweg durch das Tal mit Blick auf den Livigno-See und die Schweizer Gipfel"
+        },
+        "hiking": {
+          "name": "Passo d'Eira",
+          "difficulty": "Leicht",
+          "distance": "8 km",
+          "elevation": "+380m",
+          "duration": "2–3h",
+          "desc": "Familienfreundlicher Panoramaweg zum Hochalpenpass durch Wildblumenwiesen"
+        },
+        "bike": {
+          "name": "Mottolino Bike Park",
+          "difficulty": "Fortgeschritten",
+          "distance": "22 km",
+          "elevation": "−1.200m",
+          "duration": "Ganztägig",
+          "desc": "Weltklasse-Downhill und Enduro-Strecken per Gondola — von blauen Flow-Trails bis zu schwarzen Technik-Routen"
+        },
+        "larix": {
+          "name": "Larix Park",
+          "difficulty": "Mittel",
+          "distance": "Abenteuerpark",
+          "elevation": "1.816m",
+          "duration": "2–4h",
+          "desc": "Kletterpark im Lärchenwald mit Seilkursen, Ziplines und Tibetischen Brücken in verschiedenen Höhen. Geeignet für Familien, Kinder und Erwachsene. Am Teola gelegen, per Kabinenbahn erreichbar."
+        },
+        "lake": {
+          "name": "Livigno-See",
+          "difficulty": "Leicht",
+          "distance": "Alpensee",
+          "elevation": "1.805m",
+          "duration": "Frei",
+          "desc": "Ein beeindruckender Alpenstausee eingebettet zwischen Bergen, ideal für Kanufahren, Kajak, Tretboot und Spaziergänge am Ufer. Atemberaubende Aussicht auf die Rätischen Alpen."
+        },
+        "lago_vago": {
+          "name": "Lago Vago",
+          "difficulty": "Mittel",
+          "distance": "8 km Hin/Rück",
+          "elevation": "+480m",
+          "duration": "3–4h",
+          "desc": "Ein bezaubernder Alpensee auf 2.523m, erreichbar von Trepalle durch Wiesen und Geröll. Türkisfarbenes kristallklares Wasser in einem felsigen Amphitheater. Einer der schönsten Ausblicke rund um Livigno."
+        },
+        "federia": {
+          "name": "Val Federia",
+          "difficulty": "Leicht",
+          "distance": "6 km Hin/Rück",
+          "elevation": "+180m",
+          "duration": "1,5–2h",
+          "desc": "Ein leichter Spaziergang entlang des Federia-Bachs durch blühende Wiesen, Lärchenwälder und Wasserfälle. Ideal für Familien. Am Ende erreicht man den malerischen Lago di Federia mit Blick auf die umliegenden Gipfel."
+        }
+      },
+      "mapLink": "Wanderkarte Öffnen",
+      "trailMapUrl": "https://www.livigno.eu/esperienze-natura-territorio-estate",
+      "easy": "Leicht",
+      "moderate": "Mittel",
+      "advanced": "Fortgeschritten"
+    },
+    "bernina": {
+      "label": "Empfohlener Ausflug",
+      "name": "Bernina Express — Roter Zug",
+      "descWinter": "Eine märchenhafte Reise durch Gletscher, verschneite Viadukte und atemberaubende Panoramen. Der Bernina Express verbindet Tirano mit St. Moritz durch die Rätischen Alpen — UNESCO-Welterbe. Im Winter verwandelt sich die Landschaft in eine endlose weiße Kulisse aus Gipfeln und gefrorenen Tälern.",
+      "descSummer": "Im Sommer durchquert der Rote Zug grüne Täler, Alpenseen und blühende Wiesen. Abfahrt in Tirano, nur 45 Minuten von Livigno entfernt. Ein unvergessliches Erlebnis durch die schönsten Alpenlandschaften Europas.",
+      "link": "Fahrzeiten und Tickets ansehen"
+    }
+  },
+  "cityPulse": {
+    "title": "City Pulse",
+    "subtitle": "Was in Livigno passiert",
+    "desc": "Entdecken Sie Live-Events, Festivals, Märkte und lokale Veranstaltungen im Herzen von Livigno.",
+    "cta": "Livigno.eu Besuchen",
+    "tagline": "Ihr Fenster ins Dorf",
+    "liveEvents": "Live-Events",
+    "markets": "Märkte",
+    "festivals": "Festivals",
+    "sports": "Sportveranstaltungen"
+  }
+}
