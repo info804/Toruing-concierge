@@ -8,10 +8,9 @@ const isGitHubPages = process.env.GITHUB_ACTIONS === 'true';
 const nextConfig = {
   ...(isGitHubPages ? {
     output: 'export',
-    basePath: '/Toruing-concierge',
     trailingSlash: true,
     env: {
-      NEXT_PUBLIC_BASE_PATH: '/Toruing-concierge',
+      NEXT_PUBLIC_BASE_PATH: '',
     },
   } : {}),
   images: {
