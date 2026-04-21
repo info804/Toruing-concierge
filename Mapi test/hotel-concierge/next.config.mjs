@@ -2,14 +2,18 @@ import createNextIntlPlugin from 'next-intl/plugin';
 
 const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
+const isGitHubPages = process.env.GITHUB_ACTIONS === 'true';
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/Digital-Concierge',
-  trailingSlash: true,
-  env: {
-    NEXT_PUBLIC_BASE_PATH: '/Digital-Concierge',
-  },
+  ...(isGitHubPages ? {
+    output: 'export',
+    basePath: '/Toruing-concierge',
+    trailingSlash: true,
+    env: {
+      NEXT_PUBLIC_BASE_PATH: '/Toruing-concierge',
+    },
+  } : {}),
   images: {
     unoptimized: true,
     remotePatterns: [

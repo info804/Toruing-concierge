@@ -5,7 +5,43 @@
     "menus": "Speisekarten",
     "wellness": "Wellness",
     "livigno": "Livigno",
-    "cityPulse": "City Pulse"
+    "cityPulse": "City Pulse",
+    "howToReach": "Anreise"
+  },
+  "howToReach": {
+    "title": "Anreise",
+    "subtitle": "Alle Informationen zur Anreise zum Hotel Touring in Livigno",
+    "mapsButton": "In Google Maps öffnen",
+    "closureLabel": "Sperrung",
+    "openLabel": "Ganzjährig geöffnet",
+    "winterClosure": "Im Winter gesperrt",
+    "alertTitle": "Achtung",
+    "routes": {
+      "tunnel": {
+        "name": "Munt la Schera Tunnel",
+        "desc": "Direkte Verbindung in die Schweiz (Val Müstair). Mautpflichtiger Tunnel, ganzjährig geöffnet.",
+        "alert": "Jeden Samstag von 09:00 bis 18:00 Uhr ist der Tunnel in Fahrtrichtung Schweiz (Ausfahrt Livigno) gesperrt.",
+        "status": "Geöffnet (mit Einschränkungen)"
+      },
+      "forcola": {
+        "name": "Forcola di Livigno Pass",
+        "desc": "Verbindung in die Schweiz (Poschiavo / Bernina). Höhe 2.315 m.",
+        "alert": "Ungefähr von Mitte Oktober bis Ende Juni wegen Schnee gesperrt. Straßenverhältnisse vor Abfahrt prüfen.",
+        "status": "Saisonale Sperrung"
+      },
+      "foscagno": {
+        "name": "Foscagno Pass",
+        "desc": "Verbindung nach Bormio und ins Veltlin (SS301). Höhe 2.291 m.",
+        "alert": "Ungefähr von Ende November bis Ende Mai wegen Schnee gesperrt. Straßenverhältnisse vor Abfahrt prüfen.",
+        "status": "Saisonale Sperrung"
+      }
+    },
+    "tips": {
+      "title": "Nützliche Hinweise",
+      "gps": "GPS-Adresse eingeben: Via Plan 117, Livigno (SO)",
+      "chains": "Im Winter werden Schneeketten oder Winterreifen dringend empfohlen",
+      "check": "Straßenverhältnisse immer vor der Abfahrt prüfen: stradainforma.it"
+    }
   },
   "header": {
     "tagline": "Der perfekte Ort zum Entspannen",

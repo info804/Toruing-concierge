@@ -33,7 +33,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2, duration: 0.6 }}
-          className="text-white/80 text-sm sm:text-base uppercase tracking-[0.25em] font-medium mb-4"
+          className="text-white text-sm sm:text-base uppercase tracking-[0.25em] font-bold mb-4 drop-shadow-md"
         >
           {t('welcome')}
         </motion.p>
@@ -43,7 +43,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.35, duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
-          className="font-serif font-bold text-white leading-tight tracking-tight mb-4"
+          className="font-serif font-extrabold text-white leading-tight tracking-tight mb-4 drop-shadow-lg"
           style={{ fontSize: 'clamp(3rem, 9vw, 7rem)' }}
         >
           {t('title')}
@@ -54,7 +54,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 0.7 }}
-          className="text-white/75 text-base sm:text-lg leading-relaxed max-w-md mb-10"
+          className="text-white font-semibold text-base sm:text-lg leading-relaxed max-w-md mb-10 drop-shadow-md"
         >
           {t('subtitle')}
         </motion.p>

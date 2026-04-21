@@ -5,7 +5,43 @@
     "menus": "Menus",
     "wellness": "Wellness",
     "livigno": "Livigno",
-    "cityPulse": "City Pulse"
+    "cityPulse": "City Pulse",
+    "howToReach": "How to Reach Us"
+  },
+  "howToReach": {
+    "title": "How to Reach Us",
+    "subtitle": "All the information you need to reach Hotel Touring in Livigno",
+    "mapsButton": "Open in Google Maps",
+    "closureLabel": "Closure",
+    "openLabel": "Open year-round",
+    "winterClosure": "Closed in winter",
+    "alertTitle": "Important",
+    "routes": {
+      "tunnel": {
+        "name": "Munt la Schera Tunnel",
+        "desc": "Direct connection to Switzerland (Val Müstair). Toll tunnel, open year-round.",
+        "alert": "Every Saturday from 09:00 to 18:00 the tunnel is closed outbound from Livigno towards Switzerland.",
+        "status": "Open (with restrictions)"
+      },
+      "forcola": {
+        "name": "Forcola di Livigno Pass",
+        "desc": "Connection to Switzerland (Poschiavo / Bernina). Altitude 2,315 m.",
+        "alert": "Approximately closed from mid-October to late June due to snow. Check road conditions before departure.",
+        "status": "Seasonal closure"
+      },
+      "foscagno": {
+        "name": "Foscagno Pass",
+        "desc": "Connection to Bormio and Valtellina (SS301). Altitude 2,291 m.",
+        "alert": "Approximately closed from late November to late May due to snow. Check road conditions before departure.",
+        "status": "Seasonal closure"
+      }
+    },
+    "tips": {
+      "title": "Useful Tips",
+      "gps": "Enter in your GPS: Via Plan 117, Livigno (SO)",
+      "chains": "In winter, snow chains or winter tyres are strongly recommended",
+      "check": "Always check road conditions before departure at: stradainforma.it"
+    }
   },
   "header": {
     "tagline": "The perfect place to take a break",

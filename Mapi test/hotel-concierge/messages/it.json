@@ -5,7 +5,43 @@
     "menus": "Menu",
     "wellness": "Wellness",
     "livigno": "Livigno",
-    "cityPulse": "City Pulse"
+    "cityPulse": "City Pulse",
+    "howToReach": "Come Raggiungerci"
+  },
+  "howToReach": {
+    "title": "Come Raggiungerci",
+    "subtitle": "Tutte le informazioni per raggiungere l'Hotel Touring a Livigno",
+    "mapsButton": "Apri in Google Maps",
+    "closureLabel": "Chiusura",
+    "openLabel": "Aperto tutto l'anno",
+    "winterClosure": "Chiuso in inverno",
+    "alertTitle": "Attenzione",
+    "routes": {
+      "tunnel": {
+        "name": "Tunnel del Munt la Schera",
+        "desc": "Collegamento diretto con la Svizzera (Val Müstair). Tunnel a pedaggio, percorribile tutto l'anno.",
+        "alert": "Ogni sabato dalle 09:00 alle 18:00 il tunnel è chiuso in uscita da Livigno in direzione Svizzera.",
+        "status": "Aperto (con restrizioni)"
+      },
+      "forcola": {
+        "name": "Passo della Forcola di Livigno",
+        "desc": "Collegamento con la Svizzera (Poschiavo / Bernina). Quota 2.315 m.",
+        "alert": "Chiuso indicativamente da metà ottobre a fine giugno per neve. Verificare le condizioni prima di partire.",
+        "status": "Chiusura stagionale"
+      },
+      "foscagno": {
+        "name": "Passo del Foscagno",
+        "desc": "Collegamento con Bormio e la Valtellina (SS301). Quota 2.291 m.",
+        "alert": "Chiuso indicativamente da fine novembre a fine maggio per neve. Verificare le condizioni prima di partire.",
+        "status": "Chiusura stagionale"
+      }
+    },
+    "tips": {
+      "title": "Consigli Utili",
+      "gps": "Inserire nel navigatore: Via Plan 117, Livigno (SO)",
+      "chains": "In inverno si consiglia di avere catene da neve o pneumatici invernali",
+      "check": "Prima di partire verificare sempre le condizioni stradali su: stradainforma.it"
+    }
   },
   "header": {
     "tagline": "Il posto perfetto dove prenderti una pausa",

@@ -15,6 +15,7 @@ const NAV_SECTIONS = [
   { key: 'wellness',        href: '#wellness' },
   { key: 'livigno',         href: '#livigno' },
   { key: 'cityPulse',       href: '#city-pulse' },
+  { key: 'howToReach',     href: '#how-to-reach' },
 ] as const;
 
 const LOCALES = [

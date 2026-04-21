@@ -196,7 +196,7 @@ function ZtlCard() {
         variants={item}
         whileHover={{ y: -3 }}
         transition={{ type: 'spring', stiffness: 320, damping: 22 }}
-        className="bg-white rounded-2xl border border-amber-200 border-l-4 border-l-amber-400 p-5 flex flex-col gap-3 h-full col-span-1 sm:col-span-2 lg:col-span-2"
+        className="bg-white rounded-2xl border border-amber-200 border-l-4 border-l-amber-400 p-5 flex flex-col gap-3 h-full"
       >
         <div className="flex items-start gap-3">
           <div className="p-2.5 rounded-xl bg-amber-50 flex-shrink-0">

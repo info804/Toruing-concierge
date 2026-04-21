@@ -8,6 +8,7 @@ import { DigitalMenusSection } from '@/components/sections/DigitalMenusSection';
 import { WellnessSection } from '@/components/sections/WellnessSection';
 import { LivignoSection } from '@/components/sections/LivignoSection';
 import { CityPulseSection } from '@/components/sections/CityPulseSection';
+import { HowToReachSection } from '@/components/sections/HowToReachSection';
 import { QRCodeSection } from '@/components/QRCodeSection';
 import { Footer } from '@/components/Footer';
 import { WhatsAppButton } from '@/components/WhatsAppButton';
@@ -20,9 +21,11 @@ export default function HomePage() {
 <HotelGuideSection />
       <PersonalizeStaySection />
       <DigitalMenusSection />
+      <div className="h-32 bg-[#F7F7F5]" />
       <WellnessSection />
       <LivignoSection />
       <CityPulseSection />
+      <HowToReachSection />
       <QRCodeSection />
       <Footer />
       <WhatsAppButton />
